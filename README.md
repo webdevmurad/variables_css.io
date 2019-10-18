@@ -4,4 +4,4 @@
 
 Интересно получилось. Впервые поработал с CSS переменными + пару строчек JS.
 
-https://webdevmurad.github.io/Variables_CSS.io/
+https://webdevmurad.github.io/variables_css.io/
